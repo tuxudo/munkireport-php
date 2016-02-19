@@ -108,6 +108,7 @@
             "gsx": "GSX",
 			"fv_escrow": "Filevault Escrow",
 			"inventory_items": "Inventory Items",
+			"location": "Location",
 			"munki": "Managed Software",
 			"network": "Network Interfaces",
 			"power": "Power",
@@ -278,6 +279,18 @@
 		},
 		"username": "Username"
 	},
+	"location": {
+		"address": "Address",
+		"altitude": "Altitude",
+		"coordinates": "Coordinates",
+		"currentstatus": "Current Status",
+		"ls_enabled": "Location Services Enabled",
+		"lastrun": "Last Run",
+		"latitude": "Latitude",
+		"latitudeaccuracy": "Latitude Accuracy",
+		"longitude": "Longitude",
+		"longitudeaccuracy": "Longitude Accuracy"
+	},
 	"machine": {
 		"hardware_widget_title": "Hardware model breakdown"
 	},
@@ -324,6 +337,7 @@
 			"displays": "Displays",
 			"hardware": "Hardware",
 			"inventory": "Inventory",
+			"location": "Location",
 			"munki": "Munki",
 			"network": "Network",
 			"power": "Power",
